@@ -100,7 +100,7 @@ Habitat = Sea
 Category = Big Fish
 Pokedex = Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout other aquatic environments is Basculegion’s equal.
 Generation = 8
-Flags = DefaultForm_2,InheritFormWithEverStone
+Flags = DefaultForm_2,InheritFormWithEverStone,HasGenderedSprites
 WildItemUncommon = DEEPSEATOOTH
 #-------------------------------
 [SNEASLER]
@@ -207,7 +207,7 @@ Habitat = Grassland
 Category = Grass Cat
 Pokedex = The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
 Generation = 9
-Evolutions = FLORAGATO,Level,16
+Evolution = FLORAGATO,Level,16
 #-------------------------------
 [FLORAGATO]
 Name = Floragato
@@ -233,7 +233,7 @@ Habitat = Grassland
 Category = Grass Cat
 Pokedex = Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.
 Generation = 9
-Evolutions = MEOWSCARADA,Level,36
+Evolution = MEOWSCARADA,Level,36
 #-------------------------------
 [MEOWSCARADA]
 Name = Meowscarada
@@ -285,7 +285,7 @@ Habitat = RoughTerrain
 Category = Fire Croc
 Pokedex = It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
 Generation = 9
-Evolutions = CROCALOR,Level,16
+Evolution = CROCALOR,Level,16
 #-------------------------------
 [CROCALOR]
 Name = Crocalor
@@ -311,7 +311,7 @@ Habitat = RoughTerrain
 Category = Fire Croc
 Pokedex = The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.
 Generation = 9
-Evolutions = SKELEDIRGE,Level,36
+Evolution = SKELEDIRGE,Level,36
 #-------------------------------
 [SKELEDIRGE]
 Name = Skeledirge
@@ -363,7 +363,7 @@ Habitat = WatersEdge
 Category = Duckling
 Pokedex = This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.
 Generation = 9
-Evolutions = QUAXWELL,Level,16
+Evolution = QUAXWELL,Level,16
 #-------------------------------
 [QUAXWELL]
 Name = Quaxwell
@@ -389,7 +389,7 @@ Habitat = WatersEdge
 Category = Practicing
 Pokedex = These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.
 Generation = 9
-Evolutions = QUAQUAVAL,Level,36
+Evolution = QUAQUAVAL,Level,36
 #-------------------------------
 [QUAQUAVAL]
 Name = Quaquaval
@@ -441,7 +441,7 @@ Habitat = Grassland
 Category = Hog
 Pokedex = It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.
 Generation = 9
-Evolutions = OINKOLOGNE,Level,18
+Evolution = OINKOLOGNE,Level,18
 #-------------------------------
 [OINKOLOGNE]
 Name = Oinkologne
@@ -494,7 +494,7 @@ Habitat = Forest
 Category = String Ball
 Pokedex = The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.
 Generation = 9
-Evolutions = SPIDOPS,Level,15
+Evolution = SPIDOPS,Level,15
 #-------------------------------
 [SPIDOPS]
 Name = Spidops
@@ -546,7 +546,7 @@ Habitat = Grassland
 Category = Grasshopper
 Pokedex = It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.
 Generation = 9
-Evolutions = LOKIX,Level,24
+Evolution = LOKIX,Level,24
 #-------------------------------
 [LOKIX]
 Name = Lokix
@@ -598,7 +598,7 @@ Habitat = Grassland
 Category = Mouse
 Pokedex = It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.
 Generation = 9
-Evolutions = PAWMO,Level,18
+Evolution = PAWMO,Level,18
 #-------------------------------
 [PAWMO]
 Name = Pawmo
@@ -624,7 +624,7 @@ Habitat = Grassland
 Category = Mouse
 Pokedex = When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.
 Generation = 9
-Evolutions = PAWMOT,LevelWalk,1000
+Evolution = PAWMOT,LevelWalk,1000
 #-------------------------------
 [PAWMOT]
 Name = Pawmot
@@ -676,7 +676,7 @@ Habitat = Urban
 Category = Couple
 Pokedex = Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.
 Generation = 9
-Evolutions = MAUSHOLD,Level,25
+Evolution = MAUSHOLD,Level,25
 #-------------------------------
 [MAUSHOLD]
 Name = Maushold
@@ -729,7 +729,7 @@ Habitat = Urban
 Category = Puppy
 Pokedex = This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.
 Generation = 9
-Evolutions = DACHSBUN,Level,26
+Evolution = DACHSBUN,Level,26
 #-------------------------------
 [DACHSBUN]
 Name = Dachsbun
@@ -781,7 +781,7 @@ Habitat = Grassland
 Category = Olive
 Pokedex = It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.
 Generation = 9
-Evolutions = DOLLIV,Level,25
+Evolution = DOLLIV,Level,25
 #-------------------------------
 [DOLLIV]
 Name = Dolliv
@@ -807,7 +807,7 @@ Habitat = Grassland
 Category = Olive
 Pokedex = Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.
 Generation = 9
-Evolutions = ARBOLIVA,Level,35
+Evolution = ARBOLIVA,Level,35
 #-------------------------------
 [ARBOLIVA]
 Name = Arboliva
@@ -886,7 +886,7 @@ Habitat = Cave
 Category = Rock Salt
 Pokedex = It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.
 Generation = 9
-Evolutions = NACLSTACK,Level,24
+Evolution = NACLSTACK,Level,24
 #-------------------------------
 [NACLSTACK]
 Name = Naclstack
@@ -912,7 +912,7 @@ Habitat = Cave
 Category = Rock Salt
 Pokedex = This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.
 Generation = 9
-Evolutions = GARGANACL,Level,38
+Evolution = GARGANACL,Level,38
 #-------------------------------
 [GARGANACL]
 Name = Garganacl
@@ -964,7 +964,8 @@ Habitat = RoughTerrain
 Category = Fire Child
 Pokedex = Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
 Generation = 9
-Evolutions = ARMAROUGE,Item,AUSPICIOUSARMOR,CERULEDGE,Item,MALICIOUSARMOR
+Evolution = ARMAROUGE,Item,AUSPICIOUSARMOR
+Evolution = CERULEDGE,Item,MALICIOUSARMOR
 #-------------------------------
 [ARMAROUGE]
 Name = Armarouge
@@ -1041,7 +1042,7 @@ Habitat = WatersEdge
 Category = EleTadpole
 Pokedex = Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
 Generation = 9
-Evolutions = BELLIBOLT,Item,THUNDERSTONE
+Evolution = BELLIBOLT,Item,THUNDERSTONE
 #-------------------------------
 [BELLIBOLT]
 Name = Bellibolt
@@ -1093,7 +1094,7 @@ Habitat = WatersEdge
 Category = Storm Petrel
 Pokedex = When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.
 Generation = 9
-Evolutions = KILOWATTREL,Level,25
+Evolution = KILOWATTREL,Level,25
 #-------------------------------
 [KILOWATTREL]
 Name = Kilowattrel
@@ -1145,7 +1146,7 @@ Habitat = Urban
 Category = Rascal
 Pokedex = It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.
 Generation = 9
-Evolutions = MABOSSTIFF,Level,30
+Evolution = MABOSSTIFF,Level,30
 #-------------------------------
 [MABOSSTIFF]
 Name = Mabosstiff
@@ -1197,7 +1198,7 @@ Habitat = Forest
 Category = Toxic Mouse
 Pokedex = Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.
 Generation = 9
-Evolutions = GRAFAIAI,Level,28
+Evolution = GRAFAIAI,Level,28
 #-------------------------------
 [GRAFAIAI]
 Name = Grafaiai
@@ -1249,7 +1250,7 @@ Habitat = RoughTerrain
 Category = Tumbleweed
 Pokedex = A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.
 Generation = 9
-Evolutions = BRAMBLEGHAST,LevelWalk,1000
+Evolution = BRAMBLEGHAST,LevelWalk,1000
 #-------------------------------
 [BRAMBLEGHAST]
 Name = Brambleghast
@@ -1301,7 +1302,7 @@ Category = Woodear
 Pokedex = Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.
 Generation = 9
 WildItemUncommon = TINYMUSHROOM
-Evolutions = TOEDSCRUEL,Level,30
+Evolution = TOEDSCRUEL,Level,30
 #-------------------------------
 [TOEDSCRUEL]
 Name = Toedscruel
@@ -1379,7 +1380,7 @@ Habitat = Grassland
 Category = Spicy Pepper
 Pokedex = The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.
 Generation = 9
-Evolutions = SCOVILLAIN,Item,FIRESTONE
+Evolution = SCOVILLAIN,Item,FIRESTONE
 #-------------------------------
 [SCOVILLAIN]
 Name = Scovillain
@@ -1431,7 +1432,7 @@ Habitat = RoughTerrain
 Category = Rolling
 Pokedex = This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.
 Generation = 9
-Evolutions = RABSCA,LevelWalk,1000
+Evolution = RABSCA,LevelWalk,1000
 #-------------------------------
 [RABSCA]
 Name = Rabsca
@@ -1483,7 +1484,7 @@ Habitat = Grassland
 Category = Frill
 Pokedex = Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.
 Generation = 9
-Evolutions = ESPATHRA,Level,35
+Evolution = ESPATHRA,Level,35
 #-------------------------------
 [ESPATHRA]
 Name = Espathra
@@ -1535,7 +1536,7 @@ Habitat = RoughTerrain
 Category = Metalsmith
 Pokedex = It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.
 Generation = 9
-Evolutions = TINKATUFF,Level,24
+Evolution = TINKATUFF,Level,24
 #-------------------------------
 [TINKATUFF]
 Name = Tinkatuff
@@ -1561,7 +1562,7 @@ Habitat = RoughTerrain
 Category = Hammer
 Pokedex = This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.
 Generation = 9
-Evolutions = TINKATON,Level,38
+Evolution = TINKATON,Level,38
 #-------------------------------
 [TINKATON]
 Name = Tinkaton
@@ -1613,7 +1614,7 @@ Habitat = Sea
 Category = Garden Eel
 Pokedex = This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.
 Generation = 9
-Evolutions = WUGTRIO,Level,26
+Evolution = WUGTRIO,Level,26
 #-------------------------------
 [WUGTRIO]
 Name = Wugtrio
@@ -1690,7 +1691,7 @@ Habitat = Sea
 Category = Dolphin
 Pokedex = It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
 Generation = 9
-Evolutions = PALAFIN,LevelWithPartner,38
+Evolution = PALAFIN,LevelWithPartner,38
 #-------------------------------
 [PALAFIN]
 Name = Palafin
@@ -1742,7 +1743,7 @@ Habitat = RoughTerrain
 Category = Single-Cyl
 Pokedex = It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.
 Generation = 9
-Evolutions = REVAVROOM,Level,40
+Evolution = REVAVROOM,Level,40
 #-------------------------------
 [REVAVROOM]
 Name = Revavroom
@@ -1846,7 +1847,7 @@ Habitat = Cave
 Category = Ore
 Pokedex = It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.
 Generation = 9
-Evolutions = GLIMMORA,Level,35
+Evolution = GLIMMORA,Level,35
 #-------------------------------
 [GLIMMORA]
 Name = Glimmora
@@ -1898,7 +1899,7 @@ Habitat = Mountain
 Category = Ghost Dog
 Pokedex = It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
 Generation = 9
-Evolutions = HOUNDSTONE,LevelNight,30
+Evolution = HOUNDSTONE,LevelNight,30
 #-------------------------------
 [HOUNDSTONE]
 Name = Houndstone
@@ -1976,7 +1977,7 @@ Habitat = Mountain
 Category = Terra Whale
 Pokedex = This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.
 Generation = 9
-Evolutions = CETITAN,Item,ICESTONE
+Evolution = CETITAN,Item,ICESTONE
 #-------------------------------
 [CETITAN]
 Name = Cetitan
@@ -2546,7 +2547,7 @@ Habitat = Mountain
 Category = Ice Fin
 Pokedex = Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
 Generation = 9
-Evolutions = ARCTIBAX,Level,35
+Evolution = ARCTIBAX,Level,35
 #-------------------------------
 [ARCTIBAX]
 Name = Arctibax
@@ -2572,7 +2573,7 @@ Habitat = Mountain
 Category = Ice Fin
 Pokedex = Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.
 Generation = 9
-Evolutions = BAXCALIBUR,Level,54
+Evolution = BAXCALIBUR,Level,54
 #-------------------------------
 [BAXCALIBUR]
 Name = Baxcalibur
@@ -2623,7 +2624,7 @@ Habitat = Urban
 Category = Coin Chest
 Pokedex = This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.
 Generation = 9
-Evolutions = GHOLDENGO,CollectItems,GIMMIGHOULCOIN
+Evolution = GHOLDENGO,CollectItems,GIMMIGHOULCOIN
 #-------------------------------
 [GHOLDENGO]
 Name = Gholdengo
@@ -2925,7 +2926,7 @@ Habitat = Forest
 Category = Candy Apple
 Pokedex = The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
 Generation = 9
-Evolutions = HYDRAPPLE,HasMove,DRAGONCHEER
+Evolution = HYDRAPPLE,HasMove,DRAGONCHEER
 #-------------------------------
 [POLTCHAGEIST]
 Name = Poltchageist
@@ -2952,7 +2953,7 @@ Habitat = Urban
 Category = Matcha
 Pokedex = Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.
 Generation = 9
-Evolutions = SINISTCHA,Item,UNREMARKABLETEACUP
+Evolution = SINISTCHA,Item,UNREMARKABLETEACUP
 #-------------------------------
 [SINISTCHA]
 Name = Sinistcha

@@ -40,7 +40,7 @@ Category = Sphere
 Pokedex = An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = ELECTRODE,Item,LEAFSTONE
+Evolution = ELECTRODE,Item,LEAFSTONE
 #-------------------------------
 [ELECTRODE,1]
 FormName = Hisuian
@@ -122,7 +122,7 @@ Category = Poison Fish
 Pokedex = After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.
 Generation = 9
 Flags = InheritFormWithEverStone
-Evolutions = CLODSIRE,Level,20
+Evolution = CLODSIRE,Level,20
 #-------------------------------
 [QWILFISH,1]
 FormName = Hisuian
@@ -133,7 +133,7 @@ EggMoves = ACIDSPRAY,AQUAJET,AQUATAIL,ASTONISH,BUBBLEBEAM,FLAIL,HAZE,SELFDESTRUC
 Pokedex = Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = OVERQWIL,LevelUseMoveCount,BARBBARRAGE
+Evolution = OVERQWIL,LevelUseMoveCount,BARBBARRAGE
 #-------------------------------
 [SNEASEL,1]
 FormName = Hisuian
@@ -146,8 +146,8 @@ Color = Gray
 Habitat = Mountain
 Pokedex = Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.
 Generation = 8
-Flags = InheritFormWithEverStone
-Evolutions = SNEASLER,DayHoldItem,RAZORCLAW
+Flags = InheritFormWithEverStone,HasGenderedSprites
+Evolution = SNEASLER,DayHoldItem,RAZORCLAW
 #-------------------------------
 [DIALGA,1]
 FormName = Origin Forme
@@ -199,7 +199,7 @@ Category = Mellow
 Pokedex = Though it differs from other Basculin in several respects, including demeanor—this one is gentle—people have categorized it as a regional form given the vast array of shared qualities.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = BASCULEGION,LevelRecoilDamage,294
+Evolution = BASCULEGION,LevelRecoilDamage,294
 #-------------------------------
 [ZORUA,1]
 FormName = Hisuian
@@ -304,6 +304,7 @@ Generation = 9
 [BASCULEGION,1]
 FormName = Female
 BaseStats = 120,92,65,78,100,75
+Flags = DefaultForm_2,InheritFormWithEverStone
 #-------------------------------
 [ENAMORUS,1]
 FormName = Therian Form
@@ -393,12 +394,12 @@ Color = Blue
 Shape = Bipedal
 Category = Coin Hunter
 Pokedex = This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.
-Evolutions = GHOLDENGO,None,
+Evolution = GHOLDENGO,None
 #-------------------------------
 [POLTCHAGEIST,1]
 FormName = Artisan Form
 Pokedex = It sprinkles some of its powdery body onto food and drains the life-force from those who so much as lick it.
-Evolutions = SINISTCHA,Item,MASTERPIECETEACUP
+Evolution = SINISTCHA,Item,MASTERPIECETEACUP
 #-------------------------------
 [SINISTCHA,1]
 FormName = Masterpiece Form
@@ -489,7 +490,6 @@ Height = 0.3
 Weight = 16.0
 Shape = Head
 Pokedex = The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move’s energy and transfers it to Terapagos.
-Flags = Legendary,TeraType_STELLAR
 #-------------------------------
 [TERAPAGOS,2]
 FormName = Stellar Form
@@ -500,4 +500,3 @@ Height = 1.7
 Weight = 77.0
 Shape = Head
 Pokedex = In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.
-Flags = Legendary,TeraType_STELLAR
